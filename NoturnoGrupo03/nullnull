@@ -1,0 +1,4 @@
+[
+{"nome_classe":"Pessoa","atributos":[{"tipo":"String","valor":"Jordan"}]},
+{"nome_classe":"Carro","atributos":[{"tipo":"String","valor":"BAD-3456"}]}
+]
